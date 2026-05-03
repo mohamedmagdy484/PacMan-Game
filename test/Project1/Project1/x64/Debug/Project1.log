@@ -1,7 +1,0 @@
-﻿  main.cpp
-C:\Users\mosta\OneDrive\Desktop\test\Project1\main.cpp(11,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
-  renderer.cpp
-C:\Users\mosta\OneDrive\Desktop\test\Project1\renderer.h(5,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
-  (compiling source file 'renderer.cpp')
-  
-  Generating Code...
